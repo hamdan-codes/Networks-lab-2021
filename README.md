@@ -13,6 +13,8 @@
   <img src="https://github.com/hamdan-codes/Networks-lab-2021/blob/main/Lab%204/qss.PNG?raw=true" width="700px"/><br><br>
   Lab 5 Questions: <br><br>
   <img src="https://github.com/hamdan-codes/Networks-lab-2021/blob/main/Lab%205/q5.PNG?raw=true" width="700px"/><br><br>
+  Lab 6 Questions: <br><br>
+  <img src="https://github.com/hamdan-codes/Networks-lab-2021/blob/main/Lab%206/qss.PNG?raw=true" width="700px"/><br><br>
 </h2>
 
 
