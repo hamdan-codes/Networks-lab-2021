@@ -15,6 +15,8 @@
   <img src="https://github.com/hamdan-codes/Networks-lab-2021/blob/main/Lab%205/q5.PNG?raw=true" width="700px"/><br><br>
   Lab 6 Questions: <br><br>
   <img src="https://github.com/hamdan-codes/Networks-lab-2021/blob/main/Lab%206/qss.PNG?raw=true" width="700px"/><br><br>
+  Lab 7 Questions: <br><br>
+  <code>IO Multiplexing.Check if a key is pressed or not within a time duration.</code><br><br>
 </h2>
 
 
