@@ -16,7 +16,9 @@
   Lab 6 Questions: <br><br>
   <img src="https://github.com/hamdan-codes/Networks-lab-2021/blob/main/Lab%206/qss.PNG?raw=true" width="700px"/><br><br>
   Lab 7 Questions: <br><br>
-  <code>IO Multiplexing.Check if a key is pressed or not within a time duration.</code><br><br>
+  <code>IO Multiplexing. Check if a key is pressed or not within a time duration.</code><br><br>
+  Lab 8 Questions: <br><br>
+  <code>IO Multiplexing. Non blocking server client communication.</code><br><br>
 </h2>
 
 
